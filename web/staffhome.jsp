@@ -55,24 +55,24 @@
             <h1 class="site-heading site-animate mb-3">Hello (Staff name)</h1>
             <h2 class="h5 site-subheading mb-5 site-animate">Button below will lead you to the process</h2>  
                 <div class="profile">
-                    <p><a href="../menu.html" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
+                    <p><a href="profile.jsp" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
                 </div>
                 <div class="profileH">
                     Here you can view or edit your profile
                 </div>  
                 <div class="order">
-                    <p><a href="../userprofile.html" class="btn btn-outline-white btn-lg site-animate">Order Lists</a></p>
+                    <p><a href="orderList.jsp" class="btn btn-outline-white btn-lg site-animate">Order Lists</a></p>
                 </div>
                 <div class="orderH">
                     The total pre-order that made from Student
                 </div>
                 <div class="coupon">
-                    <p><a href="../weekly.html" class="btn btn-outline-white btn-lg site-animate">Coupon</a></p>
+                    <p><a href="../coupon.jsp" class="btn btn-outline-white btn-lg site-animate">Coupon</a></p>
                 </div>
                 <div class="couponH">
                     Insert coupon code to redeem their food
                 </div>
-                    <p><a href="../logout.html" class="btn btn-outline-white btn-lg site-animate">Log out</a></p>
+                    <p><a href="logout.jsp" class="btn btn-outline-white btn-lg site-animate">Log out</a></p>
           </div>
         </div>
       </div>
@@ -90,18 +90,11 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
-
     <script src="js/bootstrap-datepicker.js"></script>
     <script src="js/jquery.timepicker.min.js"></script>
-    
     <script src="js/jquery.animateNumber.min.js"></script>
-    
-
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
-
     <script src="js/main.js"></script>
-
-    
   </body>
 </html>

@@ -62,30 +62,30 @@
             <h2 class="h5 site-subheading mb-5 site-animate">Welcome to DeliciousFood</h2> 
                                
             <div class="menu">
-                <p><a href="../menu.html" class="btn btn-outline-white btn-lg site-animate">Menu</a></p>
+                <p><a href="menu.jsp" class="btn btn-outline-white btn-lg site-animate">Menu</a></p>
             </div>
             <div class="menuH">
                 View the menu and order your meal
             </div>
             <div class="profile">  
-            <p><a href="../userprofile.html" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
+            <p><a href="profile.jsp" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
             </div> 
             <div class="profileH">
                 Here you can view or edit your profile
             </div>
             <div class="intake">  
-            <p><a href="../weekly.html" class="btn btn-outline-white btn-lg site-animate">Weekly Food Intake</a></p>
+            <p><a href="../weekly.jsp" class="btn btn-outline-white btn-lg site-animate">Weekly Food Intake</a></p>
             </div> 
             <div class="intakeH">
                 Here can view your weekly calories.
             </div>
             <div class="history">
-            <p><a href="../History.html" class="btn btn-outline-white btn-lg site-animate">History</a></p>
+            <p><a href="../History.jsp" class="btn btn-outline-white btn-lg site-animate">History</a></p>
             </div>
             <div class="historyH">
                 Here can view your transaction history
             </div>  
-            <p><a href="../logout.html" class="btn btn-outline-white btn-lg site-animate">Log out</a></p>
+            <p><a href="logout.jsp" class="btn btn-outline-white btn-lg site-animate">Log out</a></p>
           </div>
         </div>
       </div>

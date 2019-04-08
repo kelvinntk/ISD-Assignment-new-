@@ -39,7 +39,7 @@
         <div class="collapse navbar-collapse" id="site-nav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active"><a href="#section-home" class="nav-link">Home</a></li>
-            <li class="nav-item active"><a href="../login.html" class="nav-link">Guest</a></li>
+            <li class="nav-item active"><a href=" " class="nav-link">Guest</a></li>
           </ul>
         </div>
       </div>

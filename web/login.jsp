@@ -69,7 +69,7 @@
               </button>
             </div>
             <div class="container-login100-form-btn m-t-32">
-              <button class="login100-form-btn">
+              <button class="login100-form-btn" action="Register.jsp">
 	Sign up <!--Go their home page--> 
               </button>
             </div>

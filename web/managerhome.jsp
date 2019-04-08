@@ -34,7 +34,7 @@
         <div class="collapse navbar-collapse" id="site-nav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active"><a href="#section-home" class="nav-link">Home</a></li>
-            <li class="nav-item active"><a href="../login.html" class="nav-link">Manager</a></li>
+            <li class="nav-item active"><a href=" " class="nav-link">Manager</a></li>
           </ul>
         </div>
       </div>
@@ -50,37 +50,37 @@
             <h2 class="h5 site-subheading mb-5 site-animate">Welcome to DeliciousFood</h2> 
             
             <div class="profile">  
-            <p><a href="../userprofile.html" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
+            <p><a href="profile.jsp" class="btn btn-outline-white btn-lg site-animate">Profile</a></p>
             </div> 
             <div class="profileH">
                 Here you can view or edit your profile.
             </div>
                 <div class="addfood">
-                    <p><a href="../" class="btn btn-outline-white btn-lg site-animate">Add Food</a></p>
+                    <p><a href="AddFood.jsp" class="btn btn-outline-white btn-lg site-animate">Add Food</a></p>
                     
                 </div>
                 <div class="addfoodH">
                     Add food details.
                 </div>
                 <div class="addmeal">
-                    <p><a href="../" class="btn btn-outline-white btn-lg site-animate">Add Meal</a></p>   
+                    <p><a href="AddMeal.jsp" class="btn btn-outline-white btn-lg site-animate">Add Meal</a></p>   
                 </div> 
                 <div class="addmealH">
                     Add meal details.
                 </div>    
             <div class="report">  
-            <p><a href="../report.html" class="btn btn-outline-white btn-lg site-animate">Report</a></p>
+            <p><a href="report.jsp" class="btn btn-outline-white btn-lg site-animate">Report</a></p>
             </div> 
             <div class="reportH">
                 Here can view your report.
             </div>
             <div class="menu">
-                <p><a href="../menu.html" class="btn btn-outline-white btn-lg site-animate">Menu</a></p>
+                <p><a href="menu.jsp" class="btn btn-outline-white btn-lg site-animate">Menu</a></p>
             </div>
             <div class="menuH">
                 Here can edit or delete the menu.
             </div>    
-            <p><a href="../logout.html" class="btn btn-outline-white btn-lg site-animate">Log out</a></p>
+            <p><a href="logout.jsp" class="btn btn-outline-white btn-lg site-animate">Log out</a></p> <!-- Display alert msg then back to HOME page-->
           </div>
         </div>
       </div>
